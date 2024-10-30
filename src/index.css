@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: black;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+:root{
+  --main-color:blue;
+  --supporting-color:whitesmoke;
+  --font-color:grey;
+  --bg-color:white;
+  --heading-color:rgb(167, 228, 253);
+  --h-color:navy;
+  --white-color:white;
+  --test:black;
+  --para-color:rgb(239, 161, 249);
+  
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: var(--heading-color);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+}
+
+h1{
+  color: rgb(132, 215, 218);
+}
+h5{
+  font-family:monospace;
+  color: rgb(45, 191, 135);
+}
+
+.container{
+  max-width: 142rem;
+  margin: 0 auto;
+  padding: 3.6rem 2.4rem;
+}
+.grid{
+  display: grid;
+  gap: 3.6em;
+}
+.grid-two--cols{
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid-three--cols{
+  grid-template-columns: repeat(3,1fr);
+}
+
+h1{
+  font-size: 3.2 rem;
+}
+
+p,li,a,label{
+  font-size: 1.8rem;
+  letter-spacing: 0.1rem;
+  color: var(--para-color);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+

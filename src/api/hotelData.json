@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Equinox Restaurant",
+        "id": 7,
+        "ratings": "4.4/5",
+        "about": "A fine dining restaurant with a warm ambiance, specializing in North Indian and Continental dishes. Known for its peaceful vibe and courteous staff.",
+        "location": "The Sonnet Hotel, Bistupur, Jamshedpur",
+        "img_url": "/images/equinox.png" 
+    },
+    {
+        "name": "Zing Restaurant",
+        "id": 19,
+        "ratings": "4.1/5",
+        "about": "A modern dining spot in Golmuri known for its multi-cuisine options, including North Indian, Chinese, and Continental dishes.",
+        "location": "United Club, Golmuri, Jamshedpur",
+        "img_url": "/images/zing.png"
+    },
+    {
+        "name": "The White Rose",
+        "id": 17,
+        "ratings": "4.3/5",
+        "about": "A premium restaurant known for its classy ambiance and fine dining experience, offering a range of cuisines.",
+        "location": "Hotel Ganga Regency, Q Road, Sakchi, Jamshedpur",
+        "img_url": "/images/white.png"
+    },
+    {
+        "name": "Brubeck Bakery",
+        "id": 3,
+        "ratings": "4.5/5",
+        "about": "A cozy bakery and café offering a range of pastries, cakes, and quick bites. It’s a popular spot for coffee and dessert lovers.",
+        "location": "Bistupur Main Road, Jamshedpur",
+        "img_url": "/images/brubeck.png"
+    },
+    {
+        "name": "Cafe Regal",
+        "id": 4,
+        "ratings": "4.4/5",
+        "about": "A chic café with stylish décor, perfect for coffee, baked goods, and fast food. Known for its relaxed vibe.",
+        "location": "Sakchi Boulevard, Jamshedpur",
+        "img_url": "/images/cafe.png" 
+    },
+    {
+        "name": "Blue Diamond",
+        "id": 1,
+        "ratings": "4.2/5",
+        "about": "A local favorite offering a variety of traditional Indian and Mughlai dishes, served in a casual yet elegant setting.",
+        "location": "Sakchi, Jamshedpur",
+        "img_url": "/images/blue_diamond.png" 
+    },
+    {
+        "name": "Dalma Restaurant",
+        "id": 6,
+        "ratings": "4.1/5",
+        "about": "Specializing in authentic Odia cuisine, Dalma serves homestyle meals with a unique Eastern Indian twist, in a comfortable ambiance.",
+        "location": "Ashiana Gardens, Bistupur, Jamshedpur",
+        "img_url": "/images/dalma.png"
+    },
+    {
+        "name": "The Alcor Hotel",
+        "id": 0,
+        "ratings": "4.3/5",
+        "about": "A premium hotel restaurant offering Indian and Continental cuisine, known for its elegant setup and great service.",
+        "location": "Ramdas Bhatta, Bistupur, Jamshedpur",
+        "img_url": "/images/alcor.png"
+    },
+    {
+        "name": "The Ganga Regency",
+        "id": 8,
+        "ratings": "4.2/5",
+        "about": "A sophisticated hotel restaurant serving multi-cuisine options with a fine dining experience.",
+        "location": "Sakchi, Jamshedpur",
+        "img_url": "/images/ganga.png" 
+    },
+    {
+        "name": "La Gravitea",
+        "id": 9,
+        "ratings": "4.6/5",
+        "about": "A tea-themed café with a warm vibe, La Gravitea serves a variety of teas and light snacks, perfect for unwinding.",
+        "location": "Circuit House Area, Jamshedpur",
+        "img_url": "/images/gravitea.png" 
+    },
+    {
+        "name": "Khaana Khazana",
+        "id": 10,
+        "ratings": "4.0/5",
+        "about": "A beloved family restaurant offering multi-cuisine options including Chinese, Indian, and fast food, known for its vibrant interior.",
+        "location": "Sakchi Market, Jamshedpur",
+        "img_url": "/images/khana.png" 
+    },
+    {
+        "name": "Moti Mahal Delux Tandoori Trail",
+        "id": 11,
+        "ratings": "4.3/5",
+        "about": "Famous for its North Indian and Mughlai dishes, particularly kebabs and curries, served in a spacious and relaxed setting.",
+        "location": "Bistupur Main Road, Jamshedpur",
+        "img_url": "/images/motimahal.png" 
+    },
+    {
+        "name": "Novelty Restaurant",
+        "id": 12,
+        "ratings": "4.0/5",
+        "about": "A popular multi-cuisine restaurant known for its classic North Indian dishes, serving customers in Jamshedpur for years.",
+        "location": "Sakchi, Jamshedpur",
+        "img_url": "/images/novelty.png" 
+    },
+    {
+        "name": "Pind Balluchi",
+        "id": 13,
+        "ratings": "4.3/5",
+        "about": "Specializing in Punjabi cuisine, Pind Balluchi provides an authentic dhaba-style experience with rustic décor.",
+        "location": "Bistupur, Jamshedpur",
+        "img_url": "/images/pind.png" 
+    },
+    {
+        "name": "10th Milestone",
+        "id": 14,
+        "ratings": "4.1/5",
+        "about": "A unique highway restaurant offering Indian and fast food, it’s popular among locals and travelers alike.",
+        "location": "NH 33, Jamshedpur",
+        "img_url": "/images/tenth.png" 
+    },
+    {
+        "name": "Urban Chulha",
+        "id": 15,
+        "ratings": "4.2/5",
+        "about": "Known for its delicious North Indian and Chinese food, Urban Chulha offers a cozy ambiance and great service.",
+        "location": "G Town Club Road, Jamshedpur",
+        "img_url": "/images/urban.png"
+    },
+    {
+        "name": "The Wave International",
+        "id": 16,
+        "ratings": "4.0/5",
+        "about": "Located inside a hotel, this restaurant offers a wide range of Indian, Chinese, and Continental cuisines with a relaxed ambiance.",
+        "location": "Pardih, Mango, Jamshedpur",
+        "img_url": "/images/wave.png"
+    },
+    {
+        "name": "Zaika Restaurant",
+        "id": 18,
+        "ratings": "4.3/5",
+        "about": "Known for its excellent North Indian dishes, Zaika offers a cozy ambiance with a reputation for great service.",
+        "location": "Bistupur, Jamshedpur",
+        "img_url": "/images/ziaka.png" 
+    },
+    {
+        "name": "Blue Sapphire",
+        "id": 2,
+        "ratings": "4.2/5",
+        "about": "Blue Sapphire is another popular dining destination in Jamshedpur. It is known for its sophisticated ambiance and multi-cuisine offerings, including North Indian, Chinese, and Continental dishes. The restaurant has a spacious seating arrangement, making it ideal for both families and large gatherings. It is also reputed for its attentive service and elegant decor.",
+        "location": "Fortune Park Centre Point Hotel, Bistupur, Jamshedpur",
+        "img_url": "/images/blue_sapphire.png"
+    },
+    {
+        "name": "Coffee House, Golmuri",
+        "id": 5,
+        "ratings": "4.1/5",
+        "about": "Coffee House in Golmuri is a cherished local establishment known for its relaxed ambiance and classic menu. It offers a variety of coffees, snacks, and light meals, making it a perfect spot for casual meetings, study sessions, or a quick bite with friends. The charming decor and friendly service contribute to its nostalgic appeal, attracting both regulars and newcomers.",
+        "location": "Golmuri, Jamshedpur",
+        "img_url": "/images/coffee_golmuri.png"
+    }
+    
+]
